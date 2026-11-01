@@ -203,38 +203,4 @@ Shows how much to trust the result.
 
 ---
 
-## Notes
 
-- The `__pycache__/` folders and `.pyc` files should not be committed. Add a `.gitignore`:
-
-  ```
-  __pycache__/
-  *.pyc
-  ```
-
-- Add a `requirements.txt` so others can reproduce your environment.
-- Add a `LICENSE` file and update the License section below.
-
----
-
-## Contributing
-
-1. Fork the repository
-2. Create a branch (`git checkout -b feature/my-feature`)
-3. Commit your changes
-4. Open a pull request
-
----
-
-## License
-
-Distributed under the **<choose a license, e.g. MIT>** License. See `LICENSE` for details.
-
----
-
-## Acknowledgements
-
-- DeepLab / Xception backbone and graph-based human parsing research
-- Synchronized BatchNorm for PyTorch
-- OpenPose for pose keypoints
-- Geometric matching approaches for virtual try-on
