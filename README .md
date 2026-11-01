@@ -177,8 +177,6 @@ python inference.py --image path/to/person.jpg
 
 Open `no_Gpu_version.ipynb` in Jupyter or Google Colab and run the cells in order.
 
-> Update the commands above to match the actual arguments your scripts accept.
-
 ---
 
 ## Assistant Modules
