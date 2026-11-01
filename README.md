@@ -181,36 +181,5 @@ These modules build on the core pipeline to make the assistant more useful and t
 
 ---
 
-## Roadmap
 
-- [ ] Implement and document physics checks
-- [ ] Add counterfactual editing interface
-- [ ] Add uncertainty scoring to inference output
-- [ ] Web or app front-end for uploading images
-- [ ] Pretrained weights and demo notebook
 
----
-
-## Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/my-feature`)
-3. Commit your changes
-4. Open a pull request
-
----
-
-## License
-
-Distributed under the **<choose a license, e.g. MIT>** License. See `LICENSE` for details.
-
----
-
-## Acknowledgements
-
-- DeepLab and Xception backbone research
-- Synchronized BatchNorm implementations for PyTorch
-- OpenPose for pose keypoints
-- Graph-based human parsing and virtual try-on research
